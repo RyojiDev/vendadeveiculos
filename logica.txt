@@ -1,0 +1,37 @@
+alert('Seja bem vindo')
+
+veiculo1 = {
+    nome: "Ford Ka",
+    valor: 32000
+} { nome: "Ford Ka", valor: 32000 }
+veiculo2 = {
+    nome: "Gol",
+    valor: 25000
+} { nome: "Gol", valor: 25000 }
+veiculo3 = {
+    nome: "Getta",
+    valor: 45000
+} { nome: "Getta", valor: 45000 }
+escolha = prompt("Qual veículo você vai escolher\n1 - " + veiculo1.nome + "\n2 - " + veliculo2.nome + "\n3 - " + veliculo3.nome + "")
+
+escolha = prompt("Qual veículo você vai escolher\n1 - " + veiculo1.nome + "\n2 - " + veiculo2.nome + "\n3 - " + veiculo3.nome + "")
+"3"
+escolha
+    "3"
+if (escolha == "3") {
+    valorUsuario = prompt("Qual valor você tem?")
+    if (veiculo3.valor < parseFloat(valorUsuario)) {
+        alert("Parabéns você comprou o seu carro " + veiculo3.nome);
+    } else {
+        alert("João infelizmente você não tem o valor suficiente, vai lá e venda mais um pouco e retorne com o valor de R$ " + veiculo3.valor);
+    }
+}
+
+if (escolha == "3") {
+    valorUsuario = prompt("Qual valor você tem?")
+    if (veiculo3.valor < parseFloat(valorUsuario)) {
+        alert("Parabéns você comprou o seu carro " + veiculo3.nome);
+    } else {
+        alert("João infelizmente você não tem o valor suficiente, vai lá e venda mais um pouco e retorne com o valor de R$ " + veiculo3.valor);
+    }
+}

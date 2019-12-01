@@ -1,0 +1,9 @@
+img {
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+}
+
+.img-selecionada {
+    opacity: 30%;
+}
